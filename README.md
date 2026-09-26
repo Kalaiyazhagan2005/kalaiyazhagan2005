@@ -1,144 +1,33 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on **scalable full-stack systems, 3D web experiences (Three.js/WebGL), and ML-powered apps**<br>
+👯 I’m looking to collaborate on **innovative open-source projects, AI/ML integrations, and developer tools**<br>
+🤝 I’m looking for help with **distributed system architectures and large-scale cloud optimizations**<br>
+🌱 I’m currently learning **advanced Deep Learning pipelines, MLOps workflows, and high-performance computing**<br>
+💬 Ask me about **Java, Python, TypeScript, React, Node.js, Spring, and Cloud (AWS/Azure)**<br>
+⚡ Fun fact **My code always compiles on the first try... in my dreams! 😄**
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18,22&height=220&section=header&text=Hi%20there,%20I'm%20Kalaiyazhagan%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/kalaiyazhagan2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Crafting+Modern+Full-Stack+Web+Apps;Data+Structures+%26+Algorithms+Enthusiast;Turning+Ideas+Into+Scalable+Code;Constantly+Learning+%26+Building" alt="Typing SVG" />
-  </a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kalaiyazhagan007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalaiyazhagan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalaiyazhagan34@gmail.com) 
 
-  <p align="center">
-    <a href="mailto:kalaiyazhagan34@gmail.com"><img src="https://img.shields.io/badge/Email-kalaiyazhagan34%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kalaiyazhagan2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kalaiyazhagan2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kalaiyazhagan2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kalaiyazhagan2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```yaml
-name: Kalaiyazhagan (Kalai)
-role: Full-Stack Developer & Software Engineer
-location: India 🇮🇳
-passions: [Web Development, UI/UX Design, Algorithmic Problem Solving, Open Source]
-currently_learning: [Advanced System Design, Cloud Architecture, DevOps]
-motto: "Transforming caffeine and curiosity into scalable software."
-```
-
-- 🔭 **Working on:** Full-stack modern web applications with responsive and engaging UX.
-- 🌱 **Learning & Exploring:** Modern cloud deployments, performance optimization, and distributed systems.
-- 💡 **Problem Solving:** Actively practicing Data Structures & Algorithms on LeetCode.
-- 💬 **Ask me about:** React, Next.js, Node.js, TypeScript, JavaScript, SQL, and Git workflows.
-- 📫 **How to reach me:** Drop an email at [kalaiyazhagan34@gmail.com](mailto:kalaiyazhagan34@gmail.com).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kalaiyazhagan2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kalaiyazhagan2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-  #### 🌐 Languages & Frontend
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,sass" alt="Frontend & Languages" />
-  </a>
-
-  <br/><br/>
-
-  #### ⚙️ Backend, Databases & APIs
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase,graphql,prisma" alt="Backend & Databases" />
-  </a>
-
-  <br/><br/>
-
-  #### 🧰 Tools, Platforms & DevOps
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bun,vite,npm,vercel,linux" alt="Tools & DevOps" />
-  </a>
-
-</div>
-
----
-
-### 📊 GitHub Analytics & Insights
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalaiyazhagan2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiyazhagan2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="350" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=kalaiyazhagan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🧩 Problem Solving & Competitive Coding
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/kalaiyazhagan2005?theme=dark&font=inter&ext=heatmap" alt="LeetCode Card" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Portfolio Website** | Personal developer portfolio showcasing projects, experience, and blogs. | Next.js, TailwindCSS, Framer Motion | [Demo](https://YOUR_PORTFOLIO_URL) • [Code](https://github.com/kalaiyazhagan2005) |
-| **Full-Stack Web App** | Modern web application featuring real-time data, authentication, and responsive UI. | React, Node.js, Express, MongoDB | [Demo](https://YOUR_DEMO_URL) • [Code](https://github.com/kalaiyazhagan2005) |
-| **Interactive SaaS Platform** | Dynamic productivity dashboard with cloud sync and analytics. | TypeScript, Tailwind, Supabase | [Demo](https://YOUR_DEMO_URL) • [Code](https://github.com/kalaiyazhagan2005) |
-
----
-
-### 📈 GitHub Contribution Activity
-
-<div align="center">
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalaiyazhagan2005/kalaiyazhagan2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalaiyazhagan2005/kalaiyazhagan2005/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kalaiyazhagan2005/kalaiyazhagan2005/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalaiyazhagan2005&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-  ### 💬 Let's Connect!
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/kalaiyazhagan2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/YOUR_LEETCODE" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:kalaiyazhagan34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  </p>
-
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18,22&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-  <i>⭐️ From [Kalaiyazhagan](https://github.com/kalaiyazhagan2005) with passion & code.</i>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
